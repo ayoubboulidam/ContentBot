@@ -5,9 +5,13 @@
 
 ## 🚀 Project Overview
 
-ContentBot is a **scalable, intelligent blog platform** developed using **Spring Boot**. The application allows authenticated users to manage blogs, generate AI-based content, and experience fast and optimized performance through Redis caching.
+ContentBot is a **scalable, intelligent blog platform** built with **Spring Boot**, designed to streamline the process of content creation and management.
 
-It follows the **Model-View-Controller (MVC)** design pattern to promote clean separation of concerns and code modularity.
+The platform allows authenticated users to:
+- ✍️ **Write and publish blogs** manually using a rich text editor.
+- 🤖 **Generate blog content using OpenAI**, making it easy to brainstorm or create full articles with the help of artificial intelligence.
+- 🛠️ **Edit existing blogs**, with the option to enhance or rewrite sections using AI assistance or manually.
+
 
 ---
 
