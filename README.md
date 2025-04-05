@@ -1,4 +1,4 @@
-# 🧠 ContentBot
+  # 🧠 ContentBot
 
 **Timeline**: Sep 2024 – Oct 2024  
 **Tech Stack**: Spring Boot · Java · Redis · PostgreSQL · Docker · OpenAI · JWT · Swagger · JUnit · Mockito  
@@ -41,7 +41,7 @@ You can pull the public Docker image here:
 
 The project is organized following the **MVC architecture**.
 
-![Project Structure](project-structure.png)
+![Project Structure](Backend.jpg)
 
 ---
 
@@ -49,7 +49,7 @@ The project is organized following the **MVC architecture**.
 
 We ensured code reliability and test coverage using `JUnit` and `Mockito`. Below is an illustration of test coverage distribution across the application's modules.
 
-![Test Coverage](test-coverage.png)
+![Test Coverage](Testing Results Junit Mockito.jpg)
 
 ---
 
