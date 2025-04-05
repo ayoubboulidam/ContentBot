@@ -49,7 +49,7 @@ The project is organized following the **MVC architecture**.
 
 We ensured code reliability and test coverage using `JUnit` and `Mockito`. Below is an illustration of test coverage distribution across the application's modules.
 
-![Test Coverage](Testing Results Junit Mockito.jpg)
+![Test Coverage](TestingResultsJunitMockito.jpg)
 
 ---
 
